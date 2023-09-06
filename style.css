@@ -83,3 +83,30 @@
 
 
 }
+
+
+
+
+.sidebar2 {
+    grid-row: 3/4;
+    grid-column: 3/4;
+    background-color: rgba(44, 44, 56, 255);
+
+}
+
+.midbar {
+    display: flex;
+    gap: 30px;
+
+
+    align-items: top;
+    gap: 40px;
+
+}
+
+.first-Col {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 12c ;
+}
